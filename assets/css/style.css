@@ -1,3 +1,5 @@
+
+/* General Styling */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -41,14 +43,16 @@ body {
     margin-left: 25px;
 }
 
+p {
+  
+    font-size: 16px;
+}
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
+/* Utilities */
 
 .hero {
     height: 800px;
